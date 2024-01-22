@@ -128,3 +128,13 @@ Principalmente, son ideas que he tenido y que al final no las he hecho o no he t
 - Indicarle al usuario, todos los nombres de los ficheros disponibles, para que sepa que tablas hay y las pueda consultar.
 
 
+---
+
+
+## Screenshots
+
+
+- Seleccionar toda una tabla
+![Screenshot from 2024-01-14 22-33-51](https://github.com/ArnauCS03/SQL-Interpreter/assets/95536223/6671ebad-2a8c-4f45-8b93-62022395e368)
+
+
