@@ -13,8 +13,9 @@
 
 - Este proyecto está dividido en 8 tareas:
 1. Integración básica: select *
-2a. Campos: select varias columnas 
-2b. Campos calculados: tener operaciones aritméticas básicas y alias
+2. Campos:
+    1. Campos no calculados: select varias columnas 
+    2. Campos calculados: tener operaciones aritméticas básicas y alias
 3. Order by: poder ordenar las filas
 4. Where: aplicar filtros con operaciones relacionales y booleanas básicas
 5. Inner join: poder juntar varias tablas
@@ -66,7 +67,7 @@ o servirle como inspiración.
 
 ---
 
-#### Aclaramientos:
+#### Aclaramientos
 
 - Cuando se muestra los valores de las tablas en Streamlit los valores de más de 3 cifras llevan coma para indicar que son miles: por ejemplo el salary 4200  se muestra 4,200.  Pero es algo solo visual, por tanto si se quiere hacer un where hay que poner los valores sin la coma
 
