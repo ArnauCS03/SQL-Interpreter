@@ -131,10 +131,32 @@ Principalmente, son ideas que he tenido y que al final no las he hecho o no he t
 ---
 
 
-## Screenshots
+#### Screenshots
 
 
-- Seleccionar toda una tabla
+- Seleccionar toda una tabla <br>
+  
 ![Screenshot from 2024-01-14 22-33-51](https://github.com/ArnauCS03/SQL-Interpreter/assets/95536223/6671ebad-2a8c-4f45-8b93-62022395e368)
+
+- Seleccionar columnas concretas e inner join:
+  
+![Screenshot from 2024-01-22 10-58-57](https://github.com/ArnauCS03/SQL-Interpreter/assets/95536223/d31ab9ea-af6a-481a-8b99-6e1794d8c7e0)
+
+- Chart plot:
+  
+![Screenshot from 2024-01-22 10-59-23](https://github.com/ArnauCS03/SQL-Interpreter/assets/95536223/f51ec0ac-57a9-4a92-8923-62d0239e235b)
+
+- Bar plot:
+
+![Screenshot from 2024-01-22 10-59-49](https://github.com/ArnauCS03/SQL-Interpreter/assets/95536223/87abdd37-e653-4749-be03-876e70fd8d2f)
+
+- Subquery muy completa:
+  
+![Screenshot from 2024-01-22 11-00-28](https://github.com/ArnauCS03/SQL-Interpreter/assets/95536223/3200d7bf-e13d-483f-82bd-aa1eeb690511)
+
+  
+
+
+
 
 
